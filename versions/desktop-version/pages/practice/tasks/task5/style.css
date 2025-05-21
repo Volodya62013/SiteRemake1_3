@@ -1,0 +1,120 @@
+header {
+    background: linear-gradient(to right bottom, 
+    yellow, rgb(247, 247, 247));
+    width: 100%;
+    height: 100px;
+    border-radius: 15px;
+    box-shadow: 5px 5px 10px;
+}
+#logo {
+    width: 90px;
+    height: 90px;
+    margin: 5px;
+    border-radius: 15px;
+}
+#title {
+    background: linear-gradient(to right bottom, 
+    cyan, blue);
+    width: fit-content;
+    height: 50px;
+    padding: 10px;
+    border-radius: 15px;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 40px;
+    font-weight: bold;
+    color: aliceblue;
+    text-decoration: none;
+    position: relative;
+    top: -85px;
+    right: -12%;
+}
+#back {
+    background: linear-gradient(to right bottom, 
+    cyan, blue);
+    width: fit-content;
+    height: 50px;
+    padding: 10px;
+    border-radius: 15px;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 40px;
+    font-weight: bold;
+    color: aliceblue;
+    text-decoration: none;
+    position: relative;
+    top: -145px;
+    right: -80%;
+}
+
+#task-text {
+    background: linear-gradient(to right bottom, 
+    cyan, blue);
+    width: 200px;
+    height: fit-content;
+    box-shadow: 7px 7px 10px black;
+    padding: 10px;
+    border-radius: 15px;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 40px;
+    font-weight: bold;
+    color: aliceblue;
+    text-decoration: none;
+    margin: 25px;
+}
+
+#editor-container {
+    background: linear-gradient(to right, 
+    rgb(20, 20, 20), rgb(66, 66, 66));
+    width: 412px;
+    height: fit-content;
+    padding: 10px;
+    position: relative;
+    right: -300px;
+    top: -630px;
+    border-radius: 15px;
+    box-shadow: 7px 7px 10px;
+}
+
+.lines {
+    background: linear-gradient(to left top, 
+    rgb(46, 44, 44), black);
+    color: cyan;
+    width: 400px;
+    height: 20px;
+    border: 3px solid grey;
+    border-radius: 5px;
+    padding: 5px;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+#check {
+    background: linear-gradient(to left top, 
+    rgb(46, 44, 44), black);
+    border: 3px solid grey;
+    width: 200px;
+    height: 50px;
+    border-radius: 15px;
+    margin: 10px;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 30px;
+    font-weight: bold;
+    color: cyan;
+}
+
+#outputik {
+    background: linear-gradient(to left top, 
+    rgb(46, 44, 44), black);
+    width: fit-content;
+    height: 30px;
+    border: 3px solid grey;
+    border-radius: 15px;
+    color: cyan;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 25px;
+    font-weight: bold;
+    padding: 10px;
+    position: relative;
+    right: -220px;
+    top: -60px;
+}

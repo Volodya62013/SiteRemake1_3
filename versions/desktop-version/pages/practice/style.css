@@ -1,0 +1,229 @@
+header {
+    background: linear-gradient(to right top, 
+    yellow, rgb(247, 247, 247));
+    width: 100%;
+    height: 100px;
+    border-radius: 15px;
+    box-shadow: 5px 5px 10px;
+}
+#logo {
+    width: 90px;
+    height: 90px;
+    margin: 5px;
+    border-radius: 15px;
+}
+#title {
+    background: linear-gradient(to right bottom, 
+    cyan, blue);
+    width: fit-content;
+    height: 50px;
+    box-shadow: 5px 5px 10px black;
+    font-family: 'Courier New', Courier, 
+    monospace;
+    font-size: 40px;
+    font-weight: bold;
+    color: aliceblue;
+    text-decoration: none;
+    border-radius: 15px;
+    padding: 10px;
+    position: relative;
+    top: -90px;
+    right: -13%;
+}
+#back {
+    background: linear-gradient(to right bottom, 
+    cyan, blue);
+    width: fit-content;
+    height: 80px;
+    box-shadow: 5px 5px 10px black;
+    font-family: 'Courier New', Courier, 
+    monospace;
+    font-size: 40px;
+    font-weight: bold;
+    color: aliceblue;
+    text-decoration: none;
+    border-radius: 15px;
+    padding: 10px;
+    position: relative;
+    top: -145px;
+    right: -80%;
+}
+
+#text {
+    background: linear-gradient(to right bottom, 
+    cyan, blue);
+    width: 1400px;
+    height: fit-content;
+    font-family: 'Courier New', Courier, 
+    monospace;
+    font-size: 40px;
+    font-weight: bold;
+    color: aliceblue;
+    text-decoration: none;
+    border-radius: 15px;
+    padding: 10px;
+    margin: 25px;
+    box-shadow: 5px 5px 5px;
+}
+
+/* Tasks */
+#task1 {
+    background: linear-gradient(to right bottom, 
+    cyan, blue);
+    width: 400px;
+    height: fit-content;
+    font-family: 'Courier New', Courier, 
+    monospace;
+    font-size: 40px;
+    font-weight: bold;
+    color: aliceblue;
+    text-decoration: none;
+    border-radius: 15px;
+    padding: 10px;
+    margin: 25px;
+    box-shadow: 5px 5px 5px;
+}
+#task2 {
+    background: linear-gradient(to right bottom, 
+    cyan, blue);
+    width: 400px;
+    height: fit-content;
+    font-family: 'Courier New', Courier, 
+    monospace;
+    font-size: 40px;
+    font-weight: bold;
+    color: aliceblue;
+    text-decoration: none;
+    border-radius: 15px;
+    padding: 10px;
+    margin: 25px;
+    box-shadow: 5px 5px 5px;
+}
+#task3 {
+    background: linear-gradient(to right bottom, 
+    cyan, blue);
+    width: 400px;
+    height: fit-content;
+    font-family: 'Courier New', Courier, 
+    monospace;
+    font-size: 40px;
+    font-weight: bold;
+    color: aliceblue;
+    text-decoration: none;
+    border-radius: 15px;
+    padding: 10px;
+    margin: 25px;
+    box-shadow: 5px 5px 5px;
+}
+#task4 {
+    background: linear-gradient(to right bottom, 
+    cyan, blue);
+    width: 400px;
+    height: fit-content;
+    font-family: 'Courier New', Courier, 
+    monospace;
+    font-size: 40px;
+    font-weight: bold;
+    color: aliceblue;
+    text-decoration: none;
+    border-radius: 15px;
+    padding: 10px;
+    margin: 25px;
+    box-shadow: 5px 5px 5px;
+    position: relative;
+    bottom: -30px;
+}
+#task5 {
+    background: linear-gradient(to right bottom, 
+    cyan, blue);
+    width: 400px;
+    height: fit-content;
+    font-family: 'Courier New', Courier, 
+    monospace;
+    font-size: 40px;
+    font-weight: bold;
+    color: aliceblue;
+    text-decoration: none;
+    border-radius: 15px;
+    padding: 10px;
+    margin: 25px;
+    box-shadow: 5px 5px 5px;
+    position: relative;
+    bottom: -30px;
+}
+#task6 {
+    background: linear-gradient(to right bottom, 
+    cyan, blue);
+    width: 400px;
+    height: fit-content;
+    font-family: 'Courier New', Courier, 
+    monospace;
+    font-size: 40px;
+    font-weight: bold;
+    color: aliceblue;
+    text-decoration: none;
+    border-radius: 15px;
+    padding: 10px;
+    margin: 25px;
+    box-shadow: 5px 5px 5px;
+    position: relative;
+    bottom: -30px;
+}
+#task7 {
+    background: linear-gradient(to right bottom, 
+    cyan, blue);
+    width: 400px;
+    height: fit-content;
+    font-family: 'Courier New', Courier, 
+    monospace;
+    font-size: 40px;
+    font-weight: bold;
+    color: aliceblue;
+    text-decoration: none;
+    border-radius: 15px;
+    padding: 10px;
+    margin: 25px;
+    box-shadow: 5px 5px 5px;
+    position: relative;
+    bottom: -60px;
+}
+#task8 {
+    background: linear-gradient(to right bottom, 
+    cyan, blue);
+    width: 400px;
+    height: fit-content;
+    font-family: 'Courier New', Courier, 
+    monospace;
+    font-size: 40px;
+    font-weight: bold;
+    color: aliceblue;
+    text-decoration: none;
+    border-radius: 15px;
+    padding: 10px;
+    margin: 25px;
+    box-shadow: 5px 5px 5px;
+    position: relative;
+    bottom: -60px;
+}
+#task9 {
+    background: linear-gradient(to right bottom, 
+    cyan, blue);
+    width: 400px;
+    height: fit-content;
+    font-family: 'Courier New', Courier, 
+    monospace;
+    font-size: 40px;
+    font-weight: bold;
+    color: aliceblue;
+    text-decoration: none;
+    border-radius: 15px;
+    padding: 10px;
+    margin: 25px;
+    box-shadow: 5px 5px 5px;
+    position: relative;
+    bottom: -60px;
+}
+
+.tasks {
+    box-shadow: 5px 5px 10px black;
+}

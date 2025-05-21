@@ -1,0 +1,33 @@
+#warn {
+    background: linear-gradient(to right bottom, cyan, blue);
+    width: 400px;
+    height: fit-content;
+    text-decoration: none;
+    color: linen;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 40px;
+    font-weight: bold;
+    border-radius: 10px;
+    box-shadow: 5px 5px 5px grey;
+    padding: 15px;
+    position: relative;
+    bottom: -250px;
+    right: -150px;
+}
+
+#back {
+    background: linear-gradient(to right bottom, cyan, blue);
+    width: 400px;
+    height: fit-content;
+    text-decoration: none;
+    color: linen;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 40px;
+    font-weight: bold;
+    border-radius: 10px;
+    box-shadow: 5px 5px 5px grey;
+    padding: 15px;
+    position: relative;
+    bottom: -340px;
+    right: -240px;
+}
